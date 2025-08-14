@@ -1,0 +1,3 @@
+[submodule "submodules/otus"]
+	path = submodules/otus
+	url = https://github.com/ivfedorov/otus.git
